@@ -30,7 +30,7 @@
 |ASE'12|15.2% (21/138)|
 |ESEC/FSE'20|28.1%(101/360)|
 |ESEC/FSE'19|24.4%(74/303)|
-|ESEC/FSE'18|21%|
+|ESEC/FSE'18|21%(61/289|
 |ESEC/FSE'17|24.4%(72/295)|
 |ESEC/FSE'16|27.1%(74/273) |
 |ESEC/FSE'15|25% (74 / 291)|
@@ -46,6 +46,7 @@
 |OOPSLA'20|(109/302) 36%|
 |ICPC 2020|(32/84) 38.1%|
 
+![Figure](analyse/conference_stats_se.png)
 
 ## Natural Language Processing and Computational Linguistics
 
