@@ -1,6 +1,13 @@
-# Conferences
+# Statistics of acceptance rate for the main SE and AI conferences
+- [Domain](#conferences)
+  * [Software Engineering](#software-engineering)
+  * [Natural Language Processing and Computational Linguistics](#natural-language-processing-and-computational-linguistics)
+  * [Machine Learning and Learning Theory](#machine-learning-and-learning-theory)
+  * [Artificial Intelligence](#artificial-intelligence)
+  * [Data Mining and Information Retrieval](#data-mining-and-information-retrieval)
 
-## Software Engineer
+
+## Software Engineering
 |   Conference | Long  |  Short |Other |
 |:-------|:----------|:-----------|:-----------|
 |ICSE’21| 23%(138/602)| 
@@ -72,6 +79,24 @@
 |NeurIPS'16|	23.6% (569/2403)|	-|
 |NeurIPS'15|	21.9% (403/1838)|	-|
 |NeurIPS'14|	24.7% (414/1678)|	-|
+|ICLR'21| 28.7% (860/2997) | - |(53 orals, 114 spotlights and 693 posters) | - |
+|ICLR'20| 26.5% (687/2594) | - |(48 orals, 107 spotlights and 532 posters) | - |
+|ICLR'19| 31.4% (500/1591) | - |(24 orals and 476 posters) |
+|ICLR'18 | 32.0% (314/981) |- |(23 orals and 291 posters) | 
+|ICLR'17 | 39.1% (198/507) |- | (15 orals and 183 posters) |
+|ICLR'16 | - | - |
+|ICLR'15 | - | - |
+|ICLR'14 | - | - |
+|ICML'20 | 21.8% (1088/4990) | - |
+|ICML'19 | 22.6% (773/3424) | - |
+|ICML'18 | 25.1% (621/2473) | - |
+|ICML'17 | 25.9% (434/1676) | - |
+|ICML'16 | 24.0% (322/?) | - |
+|ICML'15 | 26.0% (270/1037) | - |
+|ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
+
+
+
 
 
 ## Artificial Intelligence
@@ -123,6 +148,21 @@
 |ICDM'16 | 8.6% (78/904) | 11.0% (100/904) |
 |ICDM'15 | 8.4% (68/807) | 9.7% (78/807) |
 |ICDM'14 | 9.8% (71/727) | 9.8% (71/727) |
+|SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) |
+|SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) |
+|SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) |
+|SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) |
+|SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) |
+|SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) |
+|SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) |
+|SIGIR'14 | 21.0% (82/387) | 40.0% (104/263) |
+
+
+
+
+
+
+
 
 
 
